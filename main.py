@@ -44,7 +44,7 @@ words = [
     'con man',
     'hurriedly',
     'sovereign',
-    'dissapear',
+    'disappear',
     'judging',
     'circumstances',
     'slipped',
